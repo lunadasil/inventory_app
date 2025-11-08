@@ -1,16 +1,24 @@
-# act1
+# 📦 Inventory Management App  
+**In-Class Activity #15 (Part II)**  
+**Author:** Luna Da Silva  
+**Date:** November 7, 2025  
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🎯 Objective
+A Flutter application connected to Firebase Firestore that performs full CRUD (Create, Read, Update, Delete) operations on inventory items.  
+The app updates in real time and syncs data directly with the cloud.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Enhanced Features Implemented
+1. **🔍 Real-time Search & Filtering** – Search bar filters inventory items by name as the user types.  
+2. **🏷️ Category Filter** – Dropdown menu allows filtering by category (All, Grocery, Electronics, Clothes, Other).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧱 How to Run the App
+1. **Clone or download** this repository:
+   ```bash
+   git clone https://github.com/<your-username>/inventory_app_lunadasil.git
+   cd inventory_app_lunadasilva
